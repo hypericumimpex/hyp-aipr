@@ -1,0 +1,281 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DCAS-plugin\n"
+"POT-Creation-Date: 2019-09-19 19:47+0300\n"
+"PO-Revision-Date: 2019-07-20 15:35+0300\n"
+"Last-Translator: \n"
+"Language-Team: https://premium.divcoder.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: index.php\n"
+"X-Poedit-SearchPath-1: uninstall.php\n"
+"X-Poedit-SearchPath-2: functions/DCAS-functions.php\n"
+"X-Poedit-SearchPath-3: functions/DCAS-shortcodes.php\n"
+"X-Poedit-SearchPath-4: functions/DCAS-widgets.php\n"
+"X-Poedit-SearchPath-5: admin/admin.php\n"
+"X-Poedit-SearchPath-6: admin/advanced.php\n"
+"X-Poedit-SearchPath-7: admin/editor.php\n"
+"X-Poedit-SearchPath-8: admin/index.php\n"
+"X-Poedit-SearchPath-9: index.php\n"
+"X-Poedit-SearchPath-10: uninstall.php\n"
+
+#: admin/admin.php:15
+msgid "AI Product Recommendations Plugin - Dashboard"
+msgstr ""
+
+#: admin/admin.php:21 admin/advanced.php:20 admin/editor.php:19
+#: admin/index.php:16
+msgid "Dashboard"
+msgstr ""
+
+#: admin/admin.php:22 admin/advanced.php:21 admin/editor.php:20
+#: admin/index.php:19
+msgid "Shortcode Generator"
+msgstr ""
+
+#: admin/admin.php:24 admin/admin.php:50 admin/admin.php:61
+#: admin/advanced.php:23 admin/editor.php:22 admin/index.php:22
+msgid "Advanced Settings"
+msgstr ""
+
+#: admin/admin.php:34 admin/index.php:12 functions/DCAS-widgets.php:17
+msgid "AI Product Recommendations"
+msgstr ""
+
+#: admin/admin.php:44
+msgid "Activate the AI Product Recommendations plugin on the website."
+msgstr ""
+
+#: admin/admin.php:60
+msgid "Activate the Advanced Settings for the AI Recommendation Algorithm."
+msgstr ""
+
+#: admin/admin.php:61
+msgid "You are currently using the default settings."
+msgstr ""
+
+#: admin/admin.php:80 admin/advanced.php:123 admin/editor.php:89
+msgid "How would you rate this plugin?"
+msgstr ""
+
+#: admin/admin.php:96 admin/advanced.php:139 admin/editor.php:105
+msgid "Rate this plugin!"
+msgstr ""
+
+#: admin/advanced.php:14
+msgid "AI Product Recommendations Plugin - Settings"
+msgstr ""
+
+#: admin/advanced.php:33
+msgid "Algorithm Settings"
+msgstr ""
+
+#: admin/advanced.php:33
+msgid "Please make the settings carefully."
+msgstr ""
+
+#: admin/advanced.php:36
+msgid "Recommendation Type"
+msgstr ""
+
+#: admin/advanced.php:40
+msgid "Categories"
+msgstr ""
+
+#: admin/advanced.php:41
+msgid "Tags"
+msgstr ""
+
+#: admin/advanced.php:44
+msgid ""
+"This plugin saves product categories (or tags) according to the products "
+"visited. It then shows the product recommendations according to these "
+"settings. Select a setting to save."
+msgstr ""
+
+#: admin/advanced.php:45
+msgid "Default: Categories (The Categories option is recommended.)"
+msgstr ""
+
+#: admin/advanced.php:50
+msgid "Browser Cookies"
+msgstr ""
+
+#: admin/advanced.php:55
+msgid "Set the cookie time (seconds) for the user."
+msgstr ""
+
+#: admin/advanced.php:56
+msgid "Default: 2629743 (2629743 seconds = 1 months)"
+msgstr ""
+
+#: admin/advanced.php:61
+msgid "ID Limit"
+msgstr ""
+
+#: admin/advanced.php:66
+msgid ""
+"Number of categories / tags to save. If you increase the number, the "
+"similarity of the recommended products decreases."
+msgstr ""
+
+#: admin/advanced.php:67
+msgid "Default: 10 (Recommended between 5-20)"
+msgstr ""
+
+#: admin/advanced.php:72
+msgid "Purchased Products"
+msgstr ""
+
+#: admin/advanced.php:82
+msgid ""
+"If the user has previously purchased any products, show them similar "
+"products."
+msgstr ""
+
+#: admin/advanced.php:83 admin/advanced.php:100
+msgid "Default: Yes"
+msgstr ""
+
+#: admin/advanced.php:89
+msgid "Products in Cart"
+msgstr ""
+
+#: admin/advanced.php:99
+msgid ""
+"If there are any products in the user's cart, show them similar products."
+msgstr ""
+
+#: admin/advanced.php:109
+msgid ""
+"Please enable the plugin from the AI Product Recommendations - Dashboard "
+"page."
+msgstr ""
+
+#: admin/editor.php:14
+msgid "AI Product Recommendations Plugin - Shortcode Generator"
+msgstr ""
+
+#: admin/editor.php:30
+msgid "Product Style"
+msgstr ""
+
+#: admin/editor.php:33 functions/DCAS-widgets.php:89
+msgid "Default Widget Theme"
+msgstr ""
+
+#: admin/editor.php:34 functions/DCAS-widgets.php:90
+msgid "Default Theme"
+msgstr ""
+
+#: admin/editor.php:35 functions/DCAS-widgets.php:91
+msgid "AIPR Widget Theme"
+msgstr ""
+
+#: admin/editor.php:36 functions/DCAS-widgets.php:92
+msgid "AIPR Theme"
+msgstr ""
+
+#: admin/editor.php:38
+msgid "Choose the style of product recommendations."
+msgstr ""
+
+#: admin/editor.php:43
+msgid "Ratings"
+msgstr ""
+
+#: admin/editor.php:46
+msgid "Show user ratings on Product Recommendations"
+msgstr ""
+
+#: admin/editor.php:51
+msgid "Number of Recommendations"
+msgstr ""
+
+#: admin/editor.php:56
+msgid "Set the number of recommended products to display."
+msgstr ""
+
+#: admin/editor.php:57
+msgid "Default: 5 (Recommended between 5-10)"
+msgstr ""
+
+#: admin/editor.php:62
+msgid "Columns"
+msgstr ""
+
+#: admin/editor.php:67
+msgid "Set the number of columns for the products to display."
+msgstr ""
+
+#: admin/editor.php:68
+msgid "Default: 1 (You don't need to set for the widget style.)"
+msgstr ""
+
+#: admin/editor.php:75
+msgid ""
+"Please enable the plugin from the AI Product Recommendations Dashboard page."
+msgstr ""
+
+#: admin/editor.php:109
+msgid "Your Shortcode"
+msgstr ""
+
+#: admin/editor.php:110
+msgid "You can copy and paste this shortcode into the WordPress pages."
+msgstr ""
+
+#: admin/editor.php:112
+msgid "Create Shortcode"
+msgstr ""
+
+#: admin/index.php:16
+msgid "Dashboard &lsaquo; AI Product Recommendations"
+msgstr ""
+
+#: admin/index.php:19
+msgid "Shortcode Generator &lsaquo; AI Product Recommendations"
+msgstr ""
+
+#: admin/index.php:22
+msgid "Settings &lsaquo; AI Product Recommendations"
+msgstr ""
+
+#: functions/DCAS-widgets.php:18
+msgid "Display AI Product Recommendations as a widget."
+msgstr ""
+
+#: functions/DCAS-widgets.php:80
+msgid "Title:"
+msgstr ""
+
+#: functions/DCAS-widgets.php:86
+msgid "Widget Style:"
+msgstr ""
+
+#: functions/DCAS-widgets.php:98
+msgid "Number of products to show:"
+msgstr ""
+
+#: functions/DCAS-widgets.php:104
+msgid "Number of Columns:"
+msgstr ""
+
+#: functions/DCAS-widgets.php:110
+msgid "Enable Product Reviews on Widget:"
+msgstr ""
+
+#: index.php:81
+msgid "Settings"
+msgstr ""
+
+#: index.php:82
+msgid "Divcoder Portfolio"
+msgstr ""

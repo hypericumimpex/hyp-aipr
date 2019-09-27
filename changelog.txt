@@ -1,0 +1,19 @@
+AI Product Recommendations for WooCommerce - Changelog
+
+== 1.1.9 Update - Sep 19, 2019 ==
+* Added - New Widget Styles (compatible with all themes)
+==
+
+
+== 1.1.6 Update - Aug 13, 2019 ==
+* Fixed - Cookie Issues and WC Notices
+==
+
+== 1.1.2 Update - July 20, 2019 ==
+* New Feature for AI - Products in Cart
+* Updated - Admin Panel and CSS
+==
+
+
+== 1.0.0 - Released. ==
+==

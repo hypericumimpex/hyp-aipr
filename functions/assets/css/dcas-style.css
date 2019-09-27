@@ -1,0 +1,71 @@
+.AIPS_theme {
+    font-size: 1.2em!important;
+    line-height: 0.9em!important;
+	font-weight: 400;
+	margin: 0 0 .5em 0!important;
+    padding: 0;	
+}
+
+.AIPS_theme a .star-rating {
+	float:unset;
+}
+
+.AIPS_theme .star-rating, .AIPS_theme .woocommerce-Price-amount, .AIPS_theme .amount {
+	margin:.5em 0!important;
+	display:block!important;
+}
+
+
+.AIPS_list {
+    font-size: 1.1em;
+    line-height: 0.9em!important;
+	font-weight: 400;
+	margin: 0 0 .5em 0!important;
+    padding: 0;
+}
+
+.AIPS_list a .star-rating {
+	float:unset;
+}
+
+.AIPS_list a .star-rating, .AIPS_list a .woocommerce-Price-amount, .AIPS_list a .amount {
+	margin:.5em 0;
+	display:block;
+}
+
+.AIPS_list li {
+    margin-left: 0;
+    list-style: none!important;
+	padding: 1em 0!important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05)!important;
+	height:auto;
+	width:auto;
+	display:table!important;
+	}
+	
+.AIPS_list li::before, .AIPS_list li::after {
+	content:""!important;
+}
+
+.AIPS_list li div, .AIPS_list li span, .AIPS_list li p, .AIPS_list li a  {
+    margin-bottom: 0.8em;
+	}
+	
+.AIPS_list li a {
+	float:left!important;
+	text-decoration:none!important;
+	display: block;
+	font-weight:normal!important;
+}
+
+.AIPS_list li .product-title {
+    font-weight: 600;
+}
+	
+.AIPS_list li img {
+    max-width: 4em;
+	height: auto;
+    float: left;
+	display:block;
+	margin-right:1.5em;
+	}
